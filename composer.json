@@ -1,0 +1,16 @@
+
+{
+  "name": "impronta48/aws-geocode",
+  "description": "AWS Geocode",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Massimo Infunti",
+      "email": "massimoi@mobilitysquare.eu"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "^3.0"
+  }
+}
